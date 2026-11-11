@@ -1,4 +1,4 @@
-# Arvin Vaziri · Software Engineer / Data & ML
+# About me
 
 Computer Science student at York University with a solid foundation in computing and with hands-on experience. Quick
 to learn new technologies and work well in team settings
