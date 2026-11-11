@@ -21,6 +21,7 @@ to learn new technologies and work well in team settings
 | [**EHLP Website**](https://github.com/Twinuzis38/website-demo)<br>(Health literacy nonprofit) | React, TypeScript, Gemini API, GitHub Actions | 🌐 Led development of the org's site with an AI chatbot and CI/CD pipeline; 134+ commits |
 | [**Messy Sales Pipeline**](https://github.com/arv1nv/messy-sales-pipeline)<br>(Data cleaning pipeline) | Python, pandas | 🧹 Cleans and transforms messy raw sales data into analysis-ready output |
 | [**Wine Classifier**](https://github.com/arv1nv/wine-classifier)<br>(KNN classification) | Python, scikit-learn | 🍷 KNN model classifying wines from chemical features |
+| [**Stock Backtester WIP**](https://github.com/arv1nv/stock-backtester)<br>(Trading strategy simulator) | Python, pandas, NumPy, yfinance, Matplotlib | 📈 Backtests trading strategies on 10 years of daily prices with next-day execution to avoid look-ahead bias; reports return, max drawdown, and Sharpe ratio |
 | [**Smart Scheduler**](https://github.com/arv1nv/smart-scheduler)<br>(AI calendar skill) | Claude skills, calendar integrations | 📅 Turns screenshots, texts, and syllabi into calendar events automatically |
 ---
 
